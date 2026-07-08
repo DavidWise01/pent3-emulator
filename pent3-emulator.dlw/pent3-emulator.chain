@@ -4,6 +4,6 @@ slug  : pent3-emulator
 seal  : e355f7ed32149821e3dd52331509dbf1ac2035fd9a646456e7f7dce03f7e87ca
 prev  : f90612abcc8c7511457812b0684002948768760555af82105abd200eae42fb88
 link  : 18c723c33b18400ecc55f61e5bd5ae2928154d1aa88f14d3bc3efa773adb8fbc
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
